@@ -11,7 +11,12 @@ public class EnterPoint : MonoBehaviour
     [SerializeField] private Settings _settings;
     [SerializeField] private Canvas _targetCanvas;
     private float _timeScale = 1;
-    
+    //lol concrod closed
+    /*/
+    7
+    7
+    7
+    /*/
     void Start()
     {
         Time.timeScale = _timeScale;
